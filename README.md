@@ -18,4 +18,12 @@ Copy the `connection.json.dist` to `connection.json`  and set the vars acording 
 
 #### Add some csv
 
-Add
+Add csv file to the `csv` folder
+
+#### Run the importer
+
+```bash
+node index.js
+```
+
+# DONE
